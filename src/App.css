@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  height: 100%;
+  overflow-y: auto;
+  /* Only Firefox Supported */
+  scrollbar-width: none;
+  width: 100%;
+}
+
+/* Chrome, Opera, Safari and Edge supported */
+.App::-webkit-scrollbar {
+  width: 0;
+}

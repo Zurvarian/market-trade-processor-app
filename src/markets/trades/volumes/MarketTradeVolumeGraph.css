@@ -1,0 +1,6 @@
+.market-trade-volume-graph-main-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50em;
+}
